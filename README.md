@@ -1,4 +1,4 @@
-# Main Website
+# Main Website for Creating Issues
 a place to create issues for changes of the main SURJTO website https://surjtoronto.com/
 
 # How to create an issue? 
