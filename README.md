@@ -4,8 +4,8 @@ a place to create issues for changes of the main SURJTO website https://surjtoro
 # How to create an issue? 
 
 - Go to surj-to github page https://github.com/surj-to
-- Click on main-website https://github.com/surj-to/main-website repository which will give access to creating issues for the website
-- To add an issue click here: https://github.com/surj-to/main-website/issues
+- Click on <a href='https://github.com/surj-to/main-website'>main-website </a> repository which will give access to creating issues for the website
+- To add an issue <a href='https://github.com/surj-to/main-website/issues'>click here </a>
 - Fill in title and description for what the issue is
 - Submit by clicking 'Submit new issue' button
 
