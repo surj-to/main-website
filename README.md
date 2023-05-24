@@ -9,7 +9,7 @@ a place to create issues for changes of the main SURJTO website https://surjtoro
 - Fill in title and description for what the issue is
 - Submit by clicking 'Submit new issue' button
 
-# How to join the Org?
+# How to join the Organization Github?
 
 - send email through slack and you will be added to the organization
 
