@@ -11,7 +11,7 @@ a place to create issues for changes of the main SURJTO website https://surjtoro
 
 # How to join the Org?
 
-- send email 
+- send email through slack and you will be added to the organization
 
 # Future Changes ?
   creating different layouts for types of issues: 
